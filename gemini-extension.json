@@ -1,0 +1,11 @@
+{
+  "name": "brokeria-imoveis",
+  "version": "1.0.0",
+  "description": "Search Brazilian real estate listings, simulate financing, qualify leads, and schedule visits — directly from your AI assistant.",
+  "mcpServers": {
+    "brokeria-imoveis": {
+      "url": "https://mcp.brokeria.com.br/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
